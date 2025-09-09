@@ -25,9 +25,8 @@ I once coded a smart contract that writes jokes to the Ethereum blockchain.
 
 | Repository                     | Description                                   |
 |-------------------------------|-----------------------------------------------|
-| design-decentralized-reputation-system | Solidity-based reputation architecture for Web3. |
-| dynamic-nft-system             | Dynamic NFT changes properties over time/use. |
-| simple-lending-pool            | Forked lending protocol, exploring borrowing/lending models. |
+| achievement-badge-system      | A smart contract system that issues on-chain achievement badges as verifiable NFTs, rewarding users for completing specific actions or milestones. |
+| design-decentralized-reputation-system | A decentralized reputation framework built with Solidity, enabling trust scores and credibility tracking directly on-chain. |
 
 ---
 
@@ -36,3 +35,4 @@ I once coded a smart contract that writes jokes to the Ethereum blockchain.
 🎯 **Stats & Badges:** 
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=mlghectiik)]()  
+
