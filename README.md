@@ -13,10 +13,7 @@ Solidity + Foundry, zk-Rollups, DAO governance
 - Partnering with creators on dynamic NFT collections
 - Contributing to Web3 tooling and reputation infrastructure
 
-###  How to Reach Me
-[Twitter](https://twitter.com/mlghectiik)
-
-###  Fun Fact
+###  Something About me
 I once coded a smart contract that writes jokes to the Ethereum blockchain.
 
 ---
