@@ -34,4 +34,5 @@ I once coded a smart contract that writes jokes to the Ethereum blockchain.
 🏗 **Tech Stack:** Solidity · Foundry · Node.js · IPFS · Ethereum  
 
 🎯 **Stats & Badges:** 
+
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=mlghectiik)]()  
