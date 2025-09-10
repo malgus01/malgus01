@@ -31,5 +31,5 @@ I once coded a smart contract that writes jokes to the Ethereum blockchain.
 
 🎯 **Stats & Badges:** 
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=mlghectiik)]()  
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=malgus01)]()  
 
