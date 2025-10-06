@@ -1,4 +1,4 @@
-### Hi there 👋 I’m @malgus01
+### Hi there 👋 I’m @malgusss
 **Web3 Builder** exploring the decentralized frontier.
 
 ###  Interests
