@@ -1,4 +1,4 @@
-### Hi there 👋 I’m @malgusss
+### Hi, it's SynnekOG
 **Web3 Builder** exploring the decentralized frontier.
 
 ###  Interests
@@ -16,20 +16,9 @@ Solidity + Foundry, zk-Rollups, DAO governance
 ###  Something About me
 I once coded a smart contract that writes jokes to the Ethereum blockchain.
 
----
-
-**Pinned Projects**
-
-| Repository                     | Description                                   |
-|-------------------------------|-----------------------------------------------|
-| achievement-badge-system      | A smart contract system that issues on-chain achievement badges as verifiable NFTs, rewarding users for completing specific actions or milestones. |
-| design-decentralized-reputation-system | A decentralized reputation framework built with Solidity, enabling trust scores and credibility tracking directly on-chain. |
-
----
-
 🏗 **Tech Stack:** Solidity · Foundry · Node.js · IPFS · Ethereum  
 
 🎯 **Stats & Badges:** 
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=malgus01)]()  
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=SynnekOG)]()  
 
