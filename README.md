@@ -1,4 +1,4 @@
-### Hi, it's SynnekOG
+### Hi, it's @SynnekOG
 **Web3 Builder** exploring the decentralized frontier.
 
 ###  Interests
